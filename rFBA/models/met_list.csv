@@ -1,0 +1,12 @@
+,metabolite inputs,translated
+0,o2[e],o2_e
+1,glu-L[e],glc_L_e
+2,glc-D[e],glc_D_e
+3,nh4[e],nh4_e
+4,succ[e],succ_e
+5,fum[e],fum_e
+6,mal-L[e],mal_L_e
+7,ac[e],ac_e
+8,pi[e],pi_e
+9,lac-D[e],lac_D_e
+10,fru[e],fru_e
